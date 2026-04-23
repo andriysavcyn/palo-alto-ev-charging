@@ -95,5 +95,5 @@ st.divider()
 st.markdown(f"""<div style="text-align: center; color: grey; font-size: 0.8rem;">
         Developed by Andriy Savchyn | Lviv | 2026<br>
         <a href="https://github.com/andriysavcyn" target="_blank">GitHub</a> • 
-        <a href="https://www.linkedin.com/in/%D0%B0%D0%BD%D0%B4%D1%80%D1%96%D0%B9-%D1%81%D0%B0%D0%B2%D1%87%D0%B8%D0%BD-09399439a" target="_blank">LinkedIn</a>
+        <a href="https://www.linkedin.com/in/andriy-savchyn" target="_blank">LinkedIn</a>
     </div>""", unsafe_allow_html=True)
